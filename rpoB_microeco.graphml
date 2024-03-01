@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_taxa" for="node" attr.name="taxa" attr.type="string"/>
+  <key id="v_Genus" for="node" attr.name="Genus" attr.type="string"/>
+  <key id="v_RelativeAbundance" for="node" attr.name="RelativeAbundance" attr.type="double"/>
+  <key id="v_module" for="node" attr.name="module" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <key id="e_label" for="edge" attr.name="label" attr.type="string"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">OTU_2</data>
+      <data key="v_taxa">OTU_2</data>
+      <data key="v_Genus">Rhizobium</data>
+      <data key="v_RelativeAbundance">18.2776143571466</data>
+      <data key="v_module">M1</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">OTU_3</data>
+      <data key="v_taxa">OTU_3</data>
+      <data key="v_Genus">Mesorhizobium</data>
+      <data key="v_RelativeAbundance">0.613132509042382</data>
+      <data key="v_module">M16</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">OTU_6</data>
+      <data key="v_taxa">OTU_6</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">4.51813969005684</data>
+      <data key="v_module">M1</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">OTU_10</data>
+      <data key="v_taxa">OTU_10</data>
+      <data key="v_Genus">Afipia</data>
+      <data key="v_RelativeAbundance">3.18405774105221</data>
+      <data key="v_module">M17</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">OTU_11</data>
+      <data key="v_taxa">OTU_11</data>
+      <data key="v_Genus">Afipia</data>
+      <data key="v_RelativeAbundance">3.20073885111906</data>
+      <data key="v_module">M20</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">OTU_13</data>
+      <data key="v_taxa">OTU_13</data>
+      <data key="v_Genus">Bartonella</data>
+      <data key="v_RelativeAbundance">2.68769300247776</data>
+      <data key="v_module">M11</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">OTU_14</data>
+      <data key="v_taxa">OTU_14</data>
+      <data key="v_Genus">Brucella</data>
+      <data key="v_RelativeAbundance">3.0335208941075</data>
+      <data key="v_module">M9</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">OTU_15</data>
+      <data key="v_taxa">OTU_15</data>
+      <data key="v_Genus">Brucella</data>
+      <data key="v_RelativeAbundance">2.42323637946677</data>
+      <data key="v_module">M12</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">OTU_19</data>
+      <data key="v_taxa">OTU_19</data>
+      <data key="v_Genus">Methylobacterium</data>
+      <data key="v_RelativeAbundance">2.40736898208612</data>
+      <data key="v_module">M2</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">OTU_20</data>
+      <data key="v_taxa">OTU_20</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">2.23201389821268</data>
+      <data key="v_module">M4</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">OTU_21</data>
+      <data key="v_taxa">OTU_21</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">2.1783088609243</data>
+      <data key="v_module">M3</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">OTU_23</data>
+      <data key="v_taxa">OTU_23</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">2.11321184602929</data>
+      <data key="v_module">M21</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">OTU_29</data>
+      <data key="v_taxa">OTU_29</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">1.69903208875978</data>
+      <data key="v_module">M1</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">OTU_34</data>
+      <data key="v_taxa">OTU_34</data>
+      <data key="v_Genus">Rhizobium</data>
+      <data key="v_RelativeAbundance">1.4345754657488</data>
+      <data key="v_module">M22</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">OTU_35</data>
+      <data key="v_taxa">OTU_35</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">1.38778698629301</data>
+      <data key="v_module">M1</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">OTU_38</data>
+      <data key="v_taxa">OTU_38</data>
+      <data key="v_Genus">Bartonella</data>
+      <data key="v_RelativeAbundance">1.17500111885494</data>
+      <data key="v_module">M11</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">OTU_42</data>
+      <data key="v_taxa">OTU_42</data>
+      <data key="v_Genus">Afipia</data>
+      <data key="v_RelativeAbundance">1.38941441166539</data>
+      <data key="v_module">M8</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">OTU_43</data>
+      <data key="v_taxa">OTU_43</data>
+      <data key="v_Genus">Mesorhizobium</data>
+      <data key="v_RelativeAbundance">1.29665116543999</data>
+      <data key="v_module">M23</data>
+    </node>
+    <node id="n18">
+      <data key="v_name">OTU_49</data>
+      <data key="v_taxa">OTU_49</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">1.34791506466982</data>
+      <data key="v_module">M1</data>
+    </node>
+    <node id="n19">
+      <data key="v_name">OTU_50</data>
+      <data key="v_taxa">OTU_50</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">1.15628572707263</data>
+      <data key="v_module">M4</data>
+    </node>
+    <node id="n20">
+      <data key="v_name">OTU_65</data>
+      <data key="v_taxa">OTU_65</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.921936473450589</data>
+      <data key="v_module">M12</data>
+    </node>
+    <node id="n21">
+      <data key="v_name">OTU_70</data>
+      <data key="v_taxa">OTU_70</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.892642816747835</data>
+      <data key="v_module">M19</data>
+    </node>
+    <node id="n22">
+      <data key="v_name">OTU_71</data>
+      <data key="v_taxa">OTU_71</data>
+      <data key="v_Genus">Methylocystis</data>
+      <data key="v_RelativeAbundance">0.909730783157775</data>
+      <data key="v_module">M6</data>
+    </node>
+    <node id="n23">
+      <data key="v_name">OTU_73</data>
+      <data key="v_taxa">OTU_73</data>
+      <data key="v_Genus">Rhizobium</data>
+      <data key="v_RelativeAbundance">1.36296874936429</data>
+      <data key="v_module">M6</data>
+    </node>
+    <node id="n24">
+      <data key="v_name">OTU_83</data>
+      <data key="v_taxa">OTU_83</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.762448786957813</data>
+      <data key="v_module">M3</data>
+    </node>
+    <node id="n25">
+      <data key="v_name">OTU_85</data>
+      <data key="v_taxa">OTU_85</data>
+      <data key="v_Genus">Sinorhizobium</data>
+      <data key="v_RelativeAbundance">0.74291968248931</data>
+      <data key="v_module">M24</data>
+    </node>
+    <node id="n26">
+      <data key="v_name">OTU_89</data>
+      <data key="v_taxa">OTU_89</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.527692676992681</data>
+      <data key="v_module">M25</data>
+    </node>
+    <node id="n27">
+      <data key="v_name">OTU_93</data>
+      <data key="v_taxa">OTU_93</data>
+      <data key="v_Genus">Afipia</data>
+      <data key="v_RelativeAbundance">0.74820881494953</data>
+      <data key="v_module">M1</data>
+    </node>
+    <node id="n28">
+      <data key="v_name">OTU_94</data>
+      <data key="v_taxa">OTU_94</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.824290951108073</data>
+      <data key="v_module">M3</data>
+    </node>
+    <node id="n29">
+      <data key="v_name">OTU_96</data>
+      <data key="v_taxa">OTU_96</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.714439738472743</data>
+      <data key="v_module">M26</data>
+    </node>
+    <node id="n30">
+      <data key="v_name">OTU_98</data>
+      <data key="v_taxa">OTU_98</data>
+      <data key="v_Genus">Afipia</data>
+      <data key="v_RelativeAbundance">0.726238572422463</data>
+      <data key="v_module">M4</data>
+    </node>
+    <node id="n31">
+      <data key="v_name">OTU_102</data>
+      <data key="v_taxa">OTU_102</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.7567527981545</data>
+      <data key="v_module">M2</data>
+    </node>
+    <node id="n32">
+      <data key="v_name">OTU_107</data>
+      <data key="v_taxa">OTU_107</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.671312966104798</data>
+      <data key="v_module">M9</data>
+    </node>
+    <node id="n33">
+      <data key="v_name">OTU_108</data>
+      <data key="v_taxa">OTU_108</data>
+      <data key="v_Genus">Afipia</data>
+      <data key="v_RelativeAbundance">0.697351772062802</data>
+      <data key="v_module">M1</data>
+    </node>
+    <node id="n34">
+      <data key="v_name">OTU_110</data>
+      <data key="v_taxa">OTU_110</data>
+      <data key="v_Genus">Starkeya</data>
+      <data key="v_RelativeAbundance">0.534202378482182</data>
+      <data key="v_module">M27</data>
+    </node>
+    <node id="n35">
+      <data key="v_name">OTU_112</data>
+      <data key="v_taxa">OTU_112</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.697758628405896</data>
+      <data key="v_module">M28</data>
+    </node>
+    <node id="n36">
+      <data key="v_name">OTU_116</data>
+      <data key="v_taxa">OTU_116</data>
+      <data key="v_Genus">Afipia</data>
+      <data key="v_RelativeAbundance">0.460154524039107</data>
+      <data key="v_module">M5</data>
+    </node>
+    <node id="n37">
+      <data key="v_name">OTU_120</data>
+      <data key="v_taxa">OTU_120</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.535829803854557</data>
+      <data key="v_module">M12</data>
+    </node>
+    <node id="n38">
+      <data key="v_name">OTU_124</data>
+      <data key="v_taxa">OTU_124</data>
+      <data key="v_Genus">Afipia</data>
+      <data key="v_RelativeAbundance">0.465443656499327</data>
+      <data key="v_module">M6</data>
+    </node>
+    <node id="n39">
+      <data key="v_name">OTU_125</data>
+      <data key="v_taxa">OTU_125</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.582211426967252</data>
+      <data key="v_module">M14</data>
+    </node>
+    <node id="n40">
+      <data key="v_name">OTU_130</data>
+      <data key="v_taxa">OTU_130</data>
+      <data key="v_Genus">Mesorhizobium</data>
+      <data key="v_RelativeAbundance">0.594417117260067</data>
+      <data key="v_module">M29</data>
+    </node>
+    <node id="n41">
+      <data key="v_name">OTU_131</data>
+      <data key="v_taxa">OTU_131</data>
+      <data key="v_Genus">Fulvimarina</data>
+      <data key="v_RelativeAbundance">0.502874440063958</data>
+      <data key="v_module">M30</data>
+    </node>
+    <node id="n42">
+      <data key="v_name">OTU_134</data>
+      <data key="v_taxa">OTU_134</data>
+      <data key="v_Genus">Methylocystis</data>
+      <data key="v_RelativeAbundance">0.624931342992103</data>
+      <data key="v_module">M8</data>
+    </node>
+    <node id="n43">
+      <data key="v_name">OTU_137</data>
+      <data key="v_taxa">OTU_137</data>
+      <data key="v_Genus">Methylobacterium</data>
+      <data key="v_RelativeAbundance">0.55535890832306</data>
+      <data key="v_module">M2</data>
+    </node>
+    <node id="n44">
+      <data key="v_name">OTU_138</data>
+      <data key="v_taxa">OTU_138</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.544780643402621</data>
+      <data key="v_module">M1</data>
+    </node>
+    <node id="n45">
+      <data key="v_name">OTU_139</data>
+      <data key="v_taxa">OTU_139</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.545594356088809</data>
+      <data key="v_module">M7</data>
+    </node>
+    <node id="n46">
+      <data key="v_name">OTU_149</data>
+      <data key="v_taxa">OTU_149</data>
+      <data key="v_Genus">Nitrobacter</data>
+      <data key="v_RelativeAbundance">0.520776119160086</data>
+      <data key="v_module">M7</data>
+    </node>
+    <node id="n47">
+      <data key="v_name">OTU_157</data>
+      <data key="v_taxa">OTU_157</data>
+      <data key="v_Genus">Bartonella</data>
+      <data key="v_RelativeAbundance">0.467477938214796</data>
+      <data key="v_module">M31</data>
+    </node>
+    <node id="n48">
+      <data key="v_name">OTU_158</data>
+      <data key="v_taxa">OTU_158</data>
+      <data key="v_Genus">Nitrobacter</data>
+      <data key="v_RelativeAbundance">0.502874440063958</data>
+      <data key="v_module">M32</data>
+    </node>
+    <node id="n49">
+      <data key="v_name">OTU_160</data>
+      <data key="v_taxa">OTU_160</data>
+      <data key="v_Genus">Afipia</data>
+      <data key="v_RelativeAbundance">0.487413899026393</data>
+      <data key="v_module">M33</data>
+    </node>
+    <node id="n50">
+      <data key="v_name">OTU_163</data>
+      <data key="v_taxa">OTU_163</data>
+      <data key="v_Genus">Methylobacterium</data>
+      <data key="v_RelativeAbundance">0.463409374783858</data>
+      <data key="v_module">M2</data>
+    </node>
+    <node id="n51">
+      <data key="v_name">OTU_164</data>
+      <data key="v_taxa">OTU_164</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.47113964530264</data>
+      <data key="v_module">M13</data>
+    </node>
+    <node id="n52">
+      <data key="v_name">OTU_165</data>
+      <data key="v_taxa">OTU_165</data>
+      <data key="v_Genus">Methylocystis</data>
+      <data key="v_RelativeAbundance">0.470732788959546</data>
+      <data key="v_module">M17</data>
+    </node>
+    <node id="n53">
+      <data key="v_name">OTU_166</data>
+      <data key="v_taxa">OTU_166</data>
+      <data key="v_Genus">Afipia</data>
+      <data key="v_RelativeAbundance">0.452424253520325</data>
+      <data key="v_module">M7</data>
+    </node>
+    <node id="n54">
+      <data key="v_name">OTU_168</data>
+      <data key="v_taxa">OTU_168</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.415400326298787</data>
+      <data key="v_module">M6</data>
+    </node>
+    <node id="n55">
+      <data key="v_name">OTU_169</data>
+      <data key="v_taxa">OTU_169</data>
+      <data key="v_Genus">Brucella</data>
+      <data key="v_RelativeAbundance">0.417027751671162</data>
+      <data key="v_module">M16</data>
+    </node>
+    <node id="n56">
+      <data key="v_name">OTU_172</data>
+      <data key="v_taxa">OTU_172</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.384072387880563</data>
+      <data key="v_module">M8</data>
+    </node>
+    <node id="n57">
+      <data key="v_name">OTU_173</data>
+      <data key="v_taxa">OTU_173</data>
+      <data key="v_Genus">Bartonella</data>
+      <data key="v_RelativeAbundance">0.44876254643248</data>
+      <data key="v_module">M11</data>
+    </node>
+    <node id="n58">
+      <data key="v_name">OTU_174</data>
+      <data key="v_taxa">OTU_174</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.397091790859565</data>
+      <data key="v_module">M1</data>
+    </node>
+    <node id="n59">
+      <data key="v_name">OTU_175</data>
+      <data key="v_taxa">OTU_175</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.437777425168947</data>
+      <data key="v_module">M5</data>
+    </node>
+    <node id="n60">
+      <data key="v_name">OTU_176</data>
+      <data key="v_taxa">OTU_176</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.36983241587228</data>
+      <data key="v_module">M9</data>
+    </node>
+    <node id="n61">
+      <data key="v_name">OTU_178</data>
+      <data key="v_taxa">OTU_178</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.421096315102101</data>
+      <data key="v_module">M19</data>
+    </node>
+    <node id="n62">
+      <data key="v_name">OTU_183</data>
+      <data key="v_taxa">OTU_183</data>
+      <data key="v_Genus">Nitratireductor</data>
+      <data key="v_RelativeAbundance">0.480497341193798</data>
+      <data key="v_module">M15</data>
+    </node>
+    <node id="n63">
+      <data key="v_name">OTU_186</data>
+      <data key="v_taxa">OTU_186</data>
+      <data key="v_Genus">Afipia</data>
+      <data key="v_RelativeAbundance">0.315313665897708</data>
+      <data key="v_module">M5</data>
+    </node>
+    <node id="n64">
+      <data key="v_name">OTU_187</data>
+      <data key="v_taxa">OTU_187</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.393023227428627</data>
+      <data key="v_module">M9</data>
+    </node>
+    <node id="n65">
+      <data key="v_name">OTU_188</data>
+      <data key="v_taxa">OTU_188</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.338504477454056</data>
+      <data key="v_module">M3</data>
+    </node>
+    <node id="n66">
+      <data key="v_name">OTU_190</data>
+      <data key="v_taxa">OTU_190</data>
+      <data key="v_Genus">Afipia</data>
+      <data key="v_RelativeAbundance">0.378783255420344</data>
+      <data key="v_module">M34</data>
+    </node>
+    <node id="n67">
+      <data key="v_name">OTU_191</data>
+      <data key="v_taxa">OTU_191</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.385699813252939</data>
+      <data key="v_module">M1</data>
+    </node>
+    <node id="n68">
+      <data key="v_name">OTU_198</data>
+      <data key="v_taxa">OTU_198</data>
+      <data key="v_Genus">Methylobacterium</data>
+      <data key="v_RelativeAbundance">0.37837639907725</data>
+      <data key="v_module">M2</data>
+    </node>
+    <node id="n69">
+      <data key="v_name">OTU_200</data>
+      <data key="v_taxa">OTU_200</data>
+      <data key="v_Genus">Brucella</data>
+      <data key="v_RelativeAbundance">0.349896455060683</data>
+      <data key="v_module">M13</data>
+    </node>
+    <node id="n70">
+      <data key="v_name">OTU_202</data>
+      <data key="v_taxa">OTU_202</data>
+      <data key="v_Genus">Bartonella</data>
+      <data key="v_RelativeAbundance">0.329553637905992</data>
+      <data key="v_module">M5</data>
+    </node>
+    <node id="n71">
+      <data key="v_name">OTU_203</data>
+      <data key="v_taxa">OTU_203</data>
+      <data key="v_Genus">Rhizobium</data>
+      <data key="v_RelativeAbundance">0.334842770366211</data>
+      <data key="v_module">M4</data>
+    </node>
+    <node id="n72">
+      <data key="v_name">OTU_213</data>
+      <data key="v_taxa">OTU_213</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.296598274115393</data>
+      <data key="v_module">M4</data>
+    </node>
+    <node id="n73">
+      <data key="v_name">OTU_216</data>
+      <data key="v_taxa">OTU_216</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.35599930020709</data>
+      <data key="v_module">M10</data>
+    </node>
+    <node id="n74">
+      <data key="v_name">OTU_219</data>
+      <data key="v_taxa">OTU_219</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.300259981203237</data>
+      <data key="v_module">M35</data>
+    </node>
+    <node id="n75">
+      <data key="v_name">OTU_223</data>
+      <data key="v_taxa">OTU_223</data>
+      <data key="v_Genus">Chelatococcus</data>
+      <data key="v_RelativeAbundance">0.337690764767868</data>
+      <data key="v_module">M11</data>
+    </node>
+    <node id="n76">
+      <data key="v_name">OTU_224</data>
+      <data key="v_taxa">OTU_224</data>
+      <data key="v_Genus">Afipia</data>
+      <data key="v_RelativeAbundance">0.323043936416491</data>
+      <data key="v_module">M3</data>
+    </node>
+    <node id="n77">
+      <data key="v_name">OTU_225</data>
+      <data key="v_taxa">OTU_225</data>
+      <data key="v_Genus">Bartonella</data>
+      <data key="v_RelativeAbundance">0.370239272215374</data>
+      <data key="v_module">M7</data>
+    </node>
+    <node id="n78">
+      <data key="v_name">OTU_232</data>
+      <data key="v_taxa">OTU_232</data>
+      <data key="v_Genus">Afipia</data>
+      <data key="v_RelativeAbundance">0.355185587520902</data>
+      <data key="v_module">M10</data>
+    </node>
+    <node id="n79">
+      <data key="v_name">OTU_235</data>
+      <data key="v_taxa">OTU_235</data>
+      <data key="v_Genus">Afipia</data>
+      <data key="v_RelativeAbundance">0.234349253622039</data>
+      <data key="v_module">M5</data>
+    </node>
+    <node id="n80">
+      <data key="v_name">OTU_237</data>
+      <data key="v_taxa">OTU_237</data>
+      <data key="v_Genus">Afipia</data>
+      <data key="v_RelativeAbundance">0.370646128558467</data>
+      <data key="v_module">M4</data>
+    </node>
+    <node id="n81">
+      <data key="v_name">OTU_241</data>
+      <data key="v_taxa">OTU_241</data>
+      <data key="v_Genus">Sinorhizobium</data>
+      <data key="v_RelativeAbundance">0.290902285312079</data>
+      <data key="v_module">M2</data>
+    </node>
+    <node id="n82">
+      <data key="v_name">OTU_245</data>
+      <data key="v_taxa">OTU_245</data>
+      <data key="v_Genus">Mesorhizobium</data>
+      <data key="v_RelativeAbundance">0.385699813252939</data>
+      <data key="v_module">M6</data>
+    </node>
+    <node id="n83">
+      <data key="v_name">OTU_246</data>
+      <data key="v_taxa">OTU_246</data>
+      <data key="v_Genus">Brucella</data>
+      <data key="v_RelativeAbundance">0.263642910324793</data>
+      <data key="v_module">M7</data>
+    </node>
+    <node id="n84">
+      <data key="v_name">OTU_251</data>
+      <data key="v_taxa">OTU_251</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.291715997998267</data>
+      <data key="v_module">M5</data>
+    </node>
+    <node id="n85">
+      <data key="v_name">OTU_255</data>
+      <data key="v_taxa">OTU_255</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.303514831947988</data>
+      <data key="v_module">M18</data>
+    </node>
+    <node id="n86">
+      <data key="v_name">OTU_256</data>
+      <data key="v_taxa">OTU_256</data>
+      <data key="v_Genus">Sinorhizobium</data>
+      <data key="v_RelativeAbundance">0.295377705086111</data>
+      <data key="v_module">M36</data>
+    </node>
+    <node id="n87">
+      <data key="v_name">OTU_257</data>
+      <data key="v_taxa">OTU_257</data>
+      <data key="v_Genus">Afipia</data>
+      <data key="v_RelativeAbundance">0.31653423492699</data>
+      <data key="v_module">M3</data>
+    </node>
+    <node id="n88">
+      <data key="v_name">OTU_260</data>
+      <data key="v_taxa">OTU_260</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.286426865538047</data>
+      <data key="v_module">M17</data>
+    </node>
+    <node id="n89">
+      <data key="v_name">OTU_261</data>
+      <data key="v_taxa">OTU_261</data>
+      <data key="v_Genus">Afipia</data>
+      <data key="v_RelativeAbundance">0.318975372985553</data>
+      <data key="v_module">M14</data>
+    </node>
+    <node id="n90">
+      <data key="v_name">OTU_265</data>
+      <data key="v_taxa">OTU_265</data>
+      <data key="v_Genus">Bartonella</data>
+      <data key="v_RelativeAbundance">0.312058815152958</data>
+      <data key="v_module">M37</data>
+    </node>
+    <node id="n91">
+      <data key="v_name">OTU_279</data>
+      <data key="v_taxa">OTU_279</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.241265811454633</data>
+      <data key="v_module">M9</data>
+    </node>
+    <node id="n92">
+      <data key="v_name">OTU_281</data>
+      <data key="v_taxa">OTU_281</data>
+      <data key="v_Genus">Afipia</data>
+      <data key="v_RelativeAbundance">0.321823367387209</data>
+      <data key="v_module">M2</data>
+    </node>
+    <node id="n93">
+      <data key="v_name">OTU_283</data>
+      <data key="v_taxa">OTU_283</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.274221175245233</data>
+      <data key="v_module">M2</data>
+    </node>
+    <node id="n94">
+      <data key="v_name">OTU_284</data>
+      <data key="v_taxa">OTU_284</data>
+      <data key="v_Genus">Methylocystis</data>
+      <data key="v_RelativeAbundance">0.317347947613177</data>
+      <data key="v_module">M38</data>
+    </node>
+    <node id="n95">
+      <data key="v_name">OTU_286</data>
+      <data key="v_taxa">OTU_286</data>
+      <data key="v_Genus">Chelatococcus</data>
+      <data key="v_RelativeAbundance">0.287240578224235</data>
+      <data key="v_module">M12</data>
+    </node>
+    <node id="n96">
+      <data key="v_name">OTU_289</data>
+      <data key="v_taxa">OTU_289</data>
+      <data key="v_Genus">Brucella</data>
+      <data key="v_RelativeAbundance">0.272593749872857</data>
+      <data key="v_module">M13</data>
+    </node>
+    <node id="n97">
+      <data key="v_name">OTU_290</data>
+      <data key="v_taxa">OTU_290</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.268525186441919</data>
+      <data key="v_module">M10</data>
+    </node>
+    <node id="n98">
+      <data key="v_name">OTU_296</data>
+      <data key="v_taxa">OTU_296</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.210751585722597</data>
+      <data key="v_module">M7</data>
+    </node>
+    <node id="n99">
+      <data key="v_name">OTU_298</data>
+      <data key="v_taxa">OTU_298</data>
+      <data key="v_Genus">Mesorhizobium</data>
+      <data key="v_RelativeAbundance">0.241265811454633</data>
+      <data key="v_module">M14</data>
+    </node>
+    <node id="n100">
+      <data key="v_name">OTU_299</data>
+      <data key="v_taxa">OTU_299</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.225805270417068</data>
+      <data key="v_module">M39</data>
+    </node>
+    <node id="n101">
+      <data key="v_name">OTU_306</data>
+      <data key="v_taxa">OTU_306</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.272186893529764</data>
+      <data key="v_module">M4</data>
+    </node>
+    <node id="n102">
+      <data key="v_name">OTU_307</data>
+      <data key="v_taxa">OTU_307</data>
+      <data key="v_Genus">Afipia</data>
+      <data key="v_RelativeAbundance">0.278696595019265</data>
+      <data key="v_module">M40</data>
+    </node>
+    <node id="n103">
+      <data key="v_name">OTU_309</data>
+      <data key="v_taxa">OTU_309</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.27178003718667</data>
+      <data key="v_module">M41</data>
+    </node>
+    <node id="n104">
+      <data key="v_name">OTU_310</data>
+      <data key="v_taxa">OTU_310</data>
+      <data key="v_Genus">Afipia</data>
+      <data key="v_RelativeAbundance">0.265677192040262</data>
+      <data key="v_module">M6</data>
+    </node>
+    <node id="n105">
+      <data key="v_name">OTU_313</data>
+      <data key="v_taxa">OTU_313</data>
+      <data key="v_Genus">Nitratireductor</data>
+      <data key="v_RelativeAbundance">0.28886800359661</data>
+      <data key="v_module">M18</data>
+    </node>
+    <node id="n106">
+      <data key="v_name">OTU_314</data>
+      <data key="v_taxa">OTU_314</data>
+      <data key="v_Genus">Afipia</data>
+      <data key="v_RelativeAbundance">0.246148087571759</data>
+      <data key="v_module">M42</data>
+    </node>
+    <node id="n107">
+      <data key="v_name">OTU_325</data>
+      <data key="v_taxa">OTU_325</data>
+      <data key="v_Genus">Bradyrhizobium</data>
+      <data key="v_RelativeAbundance">0.238010960709883</data>
+      <data key="v_module">M3</data>
+    </node>
+    <node id="n108">
+      <data key="v_name">OTU_329</data>
+      <data key="v_taxa">OTU_329</data>
+      <data key="v_Genus">Bartonella</data>
+      <data key="v_RelativeAbundance">0.257540065178386</data>
+      <data key="v_module">M43</data>
+    </node>
+    <node id="n109">
+      <data key="v_name">OTU_331</data>
+      <data key="v_taxa">OTU_331</data>
+      <data key="v_Genus">Afipia</data>
+      <data key="v_RelativeAbundance">0.241672667797727</data>
+      <data key="v_module">M8</data>
+    </node>
+    <node id="n110">
+      <data key="v_name">OTU_358</data>
+      <data key="v_taxa">OTU_358</data>
+      <data key="v_Genus">Nitratireductor</data>
+      <data key="v_RelativeAbundance">0.274221175245233</data>
+      <data key="v_module">M15</data>
+    </node>
+    <node id="n111">
+      <data key="v_name">OTU_359</data>
+      <data key="v_taxa">OTU_359</data>
+      <data key="v_Genus">Chelatococcus</data>
+      <data key="v_RelativeAbundance">0.218074999898286</data>
+      <data key="v_module">M8</data>
+    </node>
+    <node id="n112">
+      <data key="v_name">OTU_364</data>
+      <data key="v_taxa">OTU_364</data>
+      <data key="v_Genus">Rhodopseudomonas</data>
+      <data key="v_RelativeAbundance">0.238010960709883</data>
+      <data key="v_module">M10</data>
+    </node>
+    <node id="n113">
+      <data key="v_name">OTU_365</data>
+      <data key="v_taxa">OTU_365</data>
+      <data key="v_Genus">Sinorhizobium</data>
+      <data key="v_RelativeAbundance">0.209531016693316</data>
+      <data key="v_module">M14</data>
+    </node>
+    <node id="n114">
+      <data key="v_name">OTU_370</data>
+      <data key="v_taxa">OTU_370</data>
+      <data key="v_Genus">Mesorhizobium</data>
+      <data key="v_RelativeAbundance">0.253878358090542</data>
+      <data key="v_module">M2</data>
+    </node>
+    <node id="n115">
+      <data key="v_name">OTU_371</data>
+      <data key="v_taxa">OTU_371</data>
+      <data key="v_Genus">Chelativorans</data>
+      <data key="v_RelativeAbundance">0.213599580124254</data>
+      <data key="v_module">M10</data>
+    </node>
+    <node id="n116">
+      <data key="v_name">OTU_386</data>
+      <data key="v_taxa">OTU_386</data>
+      <data key="v_Genus">Brucella</data>
+      <data key="v_RelativeAbundance">0.206276165948565</data>
+      <data key="v_module">M16</data>
+    </node>
+    <node id="n117">
+      <data key="v_name">OTU_401</data>
+      <data key="v_taxa">OTU_401</data>
+      <data key="v_Genus">Bosea</data>
+      <data key="v_RelativeAbundance">0.213599580124254</data>
+      <data key="v_module">M9</data>
+    </node>
+    <node id="n118">
+      <data key="v_name">OTU_421</data>
+      <data key="v_taxa">OTU_421</data>
+      <data key="v_Genus">Sinorhizobium</data>
+      <data key="v_RelativeAbundance">0.20790359132094</data>
+      <data key="v_module">M8</data>
+    </node>
+    <node id="n119">
+      <data key="v_name">OTU_447</data>
+      <data key="v_taxa">OTU_447</data>
+      <data key="v_Genus">Brucella</data>
+      <data key="v_RelativeAbundance">0.259981203236949</data>
+      <data key="v_module">M13</data>
+    </node>
+    <node id="n120">
+      <data key="v_name">OTU_452</data>
+      <data key="v_taxa">OTU_452</data>
+      <data key="v_Genus">Nitratireductor</data>
+      <data key="v_RelativeAbundance">0.20464874057619</data>
+      <data key="v_module">M15</data>
+    </node>
+    <edge source="n0" target="n2">
+      <data key="e_weight">0.0908346351607521</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n1" target="n55">
+      <data key="e_weight">0.18644533188921</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n2" target="n12">
+      <data key="e_weight">0.134382455883832</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n2" target="n14">
+      <data key="e_weight">0.00635871312940867</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n2" target="n33">
+      <data key="e_weight">0.0399074076644944</data>
+      <data key="e_label">-</data>
+    </edge>
+    <edge source="n2" target="n44">
+      <data key="e_weight">0.0737175278798241</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n2" target="n64">
+      <data key="e_weight">0.000373041086672465</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n3" target="n52">
+      <data key="e_weight">0.0622734696394354</data>
+      <data key="e_label">-</data>
+    </edge>
+    <edge source="n3" target="n88">
+      <data key="e_weight">0.0059200351147502</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n5" target="n15">
+      <data key="e_weight">0.0201162323071659</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n5" target="n57">
+      <data key="e_weight">0.0160694610966206</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n6" target="n45">
+      <data key="e_weight">0.0156572483888205</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n6" target="n64">
+      <data key="e_weight">0.106228563857246</data>
+      <data key="e_label">-</data>
+    </edge>
+    <edge source="n6" target="n91">
+      <data key="e_weight">0.107179832923902</data>
+      <data key="e_label">-</data>
+    </edge>
+    <edge source="n7" target="n20">
+      <data key="e_weight">0.112881128863759</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n7" target="n37">
+      <data key="e_weight">0.145224104321857</data>
+      <data key="e_label">-</data>
+    </edge>
+    <edge source="n7" target="n95">
+      <data key="e_weight">0.00412893024784394</data>
+      <data key="e_label">-</data>
+    </edge>
+    <edge source="n8" target="n43">
+      <data key="e_weight">0.0508074133850068</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n8" target="n104">
+      <data key="e_weight">0.0131543451990829</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n9" target="n19">
+      <data key="e_weight">0.206909064469245</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n9" target="n42">
+      <data key="e_weight">0.0257542083345841</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n9" target="n72">
+      <data key="e_weight">0.033126908773523</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n9" target="n80">
+      <data key="e_weight">0.0329954419658417</data>
+      <data key="e_label">-</data>
+    </edge>
+    <edge source="n9" target="n105">
+      <data key="e_weight">0.00746484850104184</data>
+      <data key="e_label">-</data>
+    </edge>
+    <edge source="n10" target="n24">
+      <data key="e_weight">0.161788128295204</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n10" target="n65">
+      <data key="e_weight">0.0344696774726306</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n12" target="n14">
+      <data key="e_weight">0.0441592223334694</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n12" target="n18">
+      <data key="e_weight">0.0662412521340685</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n14" target="n72">
+      <data key="e_weight">0.0111047169743493</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n15" target="n75">
+      <data key="e_weight">0.0760213249643074</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n16" target="n42">
+      <data key="e_weight">0.124202336588018</data>
+      <data key="e_label">-</data>
+    </edge>
+    <edge source="n16" target="n109">
+      <data key="e_weight">0.0319211299864151</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n19" target="n30">
+      <data key="e_weight">0.0144424585788774</data>
+      <data key="e_label">-</data>
+    </edge>
+    <edge source="n19" target="n71">
+      <data key="e_weight">0.0564479003108925</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n19" target="n101">
+      <data key="e_weight">0.0227799888084798</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n21" target="n61">
+      <data key="e_weight">0.273035303025927</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n22" target="n44">
+      <data key="e_weight">0.00468661816137061</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n22" target="n54">
+      <data key="e_weight">0.0327867014095421</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n22" target="n104">
+      <data key="e_weight">0.122972081038063</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n23" target="n54">
+      <data key="e_weight">0.154048973766806</data>
+      <data key="e_label">-</data>
+    </edge>
+    <edge source="n23" target="n82">
+      <data key="e_weight">0.0495789424832085</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n24" target="n27">
+      <data key="e_weight">0.034011460536639</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n24" target="n51">
+      <data key="e_weight">0.0734170690395882</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n24" target="n54">
+      <data key="e_weight">0.0292079367602199</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n24" target="n76">
+      <data key="e_weight">0.074419024647543</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n24" target="n92">
+      <data key="e_weight">0.0372939851410542</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n24" target="n107">
+      <data key="e_weight">0.169736863855012</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n27" target="n44">
+      <data key="e_weight">0.0554300070116434</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n27" target="n67">
+      <data key="e_weight">0.0314776972450897</data>
+      <data key="e_label">-</data>
+    </edge>
+    <edge source="n28" target="n76">
+      <data key="e_weight">0.0718942056663873</data>
+      <data key="e_label">-</data>
+    </edge>
+    <edge source="n31" target="n43">
+      <data key="e_weight">0.203029116912313</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n31" target="n50">
+      <data key="e_weight">0.234003462143521</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n31" target="n51">
+      <data key="e_weight">0.0451581672456933</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n31" target="n54">
+      <data key="e_weight">0.020063988014786</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n31" target="n81">
+      <data key="e_weight">0.031637452103065</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n31" target="n92">
+      <data key="e_weight">0.110492171344779</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n32" target="n64">
+      <data key="e_weight">0.0321416699747583</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n32" target="n117">
+      <data key="e_weight">0.00867275056233435</data>
+      <data key="e_label">-</data>
+    </edge>
+    <edge source="n36" target="n63">
+      <data key="e_weight">0.138306983455599</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n36" target="n70">
+      <data key="e_weight">0.00815925912451737</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n37" target="n95">
+      <data key="e_weight">0.0458339994588098</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n38" target="n54">
+      <data key="e_weight">0.023934537948769</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n38" target="n107">
+      <data key="e_weight">0.0264778745327222</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n39" target="n78">
+      <data key="e_weight">0.0111635154633839</data>
+      <data key="e_label">-</data>
+    </edge>
+    <edge source="n39" target="n99">
+      <data key="e_weight">0.096246931103056</data>
+      <data key="e_label">-</data>
+    </edge>
+    <edge source="n42" target="n44">
+      <data key="e_weight">0.0486639896232335</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n42" target="n56">
+      <data key="e_weight">0.0105526632143162</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n42" target="n111">
+      <data key="e_weight">0.0423724426018889</data>
+      <data key="e_label">-</data>
+    </edge>
+    <edge source="n43" target="n54">
+      <data key="e_weight">0.0097319330096548</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n43" target="n68">
+      <data key="e_weight">0.104960602274213</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n44" target="n58">
+      <data key="e_weight">0.0374846715965205</data>
+      <data key="e_label">-</data>
+    </edge>
+    <edge source="n45" target="n46">
+      <data key="e_weight">0.098390431262207</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n45" target="n77">
+      <data key="e_weight">0.0327635635814507</data>
+      <data key="e_label">-</data>
+    </edge>
+    <edge source="n46" target="n53">
+      <data key="e_weight">0.0370802007034269</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n50" target="n93">
+      <data key="e_weight">0.0516158413585439</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n51" target="n69">
+      <data key="e_weight">0.0895254390505923</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n51" target="n119">
+      <data key="e_weight">0.0770469329209982</data>
+      <data key="e_label">-</data>
+    </edge>
+    <edge source="n53" target="n83">
+      <data key="e_weight">0.0294168809190997</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n55" target="n116">
+      <data key="e_weight">0.147343364522525</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n56" target="n118">
+      <data key="e_weight">0.0383301988025383</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n58" target="n85">
+      <data key="e_weight">0.00682655802651871</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n59" target="n70">
+      <data key="e_weight">0.00961373963435269</data>
+      <data key="e_label">-</data>
+    </edge>
+    <edge source="n59" target="n84">
+      <data key="e_weight">0.0842143738722709</data>
+      <data key="e_label">-</data>
+    </edge>
+    <edge source="n60" target="n64">
+      <data key="e_weight">0.0868734556803127</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n62" target="n110">
+      <data key="e_weight">0.23575278302725</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n62" target="n120">
+      <data key="e_weight">0.115754012891863</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n63" target="n79">
+      <data key="e_weight">0.132335677728413</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n65" target="n87">
+      <data key="e_weight">0.0593328468817641</data>
+      <data key="e_label">-</data>
+    </edge>
+    <edge source="n69" target="n96">
+      <data key="e_weight">0.188176004069611</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n73" target="n91">
+      <data key="e_weight">0.0252465096751806</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n73" target="n97">
+      <data key="e_weight">0.0316752256248735</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n73" target="n112">
+      <data key="e_weight">0.00829688135853224</data>
+      <data key="e_label">-</data>
+    </edge>
+    <edge source="n76" target="n107">
+      <data key="e_weight">0.0434334366110378</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n78" target="n88">
+      <data key="e_weight">0.000761801530652972</data>
+      <data key="e_label">-</data>
+    </edge>
+    <edge source="n78" target="n97">
+      <data key="e_weight">0.196727198175753</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n78" target="n115">
+      <data key="e_weight">0.110326180604487</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n81" target="n114">
+      <data key="e_weight">0.0138013821410011</data>
+      <data key="e_label">-</data>
+    </edge>
+    <edge source="n83" target="n98">
+      <data key="e_weight">0.00656055814492873</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n85" target="n105">
+      <data key="e_weight">0.0866793778372235</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n89" target="n99">
+      <data key="e_weight">0.127117119539998</data>
+      <data key="e_label">-</data>
+    </edge>
+    <edge source="n92" target="n119">
+      <data key="e_weight">0.0021676974758732</data>
+      <data key="e_label">-</data>
+    </edge>
+    <edge source="n96" target="n99">
+      <data key="e_weight">0.0210814526502834</data>
+      <data key="e_label">+</data>
+    </edge>
+    <edge source="n99" target="n113">
+      <data key="e_weight">0.00624593585363414</data>
+      <data key="e_label">-</data>
+    </edge>
+  </graph>
+</graphml>
