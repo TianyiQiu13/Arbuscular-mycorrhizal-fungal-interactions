@@ -1,0 +1,15 @@
+"","value"
+"num.edges",991
+"num.pos.edges",696
+"num.neg.edges",295
+"num.vertices",596
+"connectance",0.00558908127009193
+"average.degree",3.3255033557047
+"average.path.length",0.244120267690783
+"diameter",1.69380219176972
+"edge.connectivity",0
+"clustering.coefficient",0
+"no.clusters",80
+"centralization.degree",0.017940330494614
+"centralization.betweenness",0.0406966465047026
+"centralization.closeness",NA
