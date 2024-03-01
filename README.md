@@ -1,5 +1,5 @@
 # Arbuscular-mycorrhizal-fungal-interactions
-Arbuscular mycorrhizal fungal interactions bridge the support of root-associated microbiota for slope multifunctionality in an erosion-prone ecosystem
+Data and scripts for "Arbuscular mycorrhizal fungal interactions bridge the support of root-associated microbiota for slope multifunctionality in an erosion-prone ecosystem" (iMeta, 2024)
 
 Tianyi Qiu, Josep Peñuelas, Yinglong Chen, Jordi Sardans, Jialuo Yu, Zhiyuan Xu, Qingliang Cui, Ji Liu, Yongxing Cui, Shuling Zhao, Jing Chen, Yunqiang Wang, Linchuan Fang
 
